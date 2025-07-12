@@ -1,0 +1,8 @@
+GET /api/user  : list all user JSON -done
+GET /user      : HTML Document render
+
+GET /user/1: getthe user id 1
+GET /user/2: getthe user id 2
+
+POST /user - create new user
+PATCH /user/1-Edit the user with ID 1

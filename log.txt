@@ -1,0 +1,99 @@
+1751384275120: / New Req received
+1751384275226: /favicon.ico New Req received
+1751384285575: /client New Req received
+1751384285631: /favicon.ico New Req received
+1751384316627: / New Req received
+1751384316664: /favicon.ico New Req received
+1751384361068: /home New Req received
+1751384361123: /favicon.ico New Req received
+1751384369054: / New Req received
+1751384369115: /favicon.ico New Req received
+1751384372326: /about New Req received
+1751384372383: /favicon.ico New Req received
+1751390561779: / New Req received
+1751390562058: /favicon.ico New Req received
+1752136480925: / New Req received
+1752136481610: /favicon.ico New Req received
+1752136493792: /about New Req received
+1752136494031: /favicon.ico New Req received
+1752136510873: /client New Req received
+1752136511198: /favicon.ico New Req received
+1752136562478: /client New Req received
+1752136562891: /favicon.ico New Req received
+1752136927142: /client New Req received
+1752136927695: /favicon.ico New Req received
+1752137345688: /client New Req received
+1752137345773: /favicon.ico New Req received
+1752137346633: /client New Req received
+1752137346784: /favicon.ico New Req received
+1752137346848: /client New Req received
+1752137346941: /favicon.ico New Req received
+1752137348888: /client New Req received
+1752137349070: /favicon.ico New Req received
+1752137359200: /client New Req received
+1752137359321: /favicon.ico New Req received
+1752137368541: /client New Req received
+1752137368622: /favicon.ico New Req received
+
+
+const http=require("http");
+ const myserver= http.createServer((req,res)=>{
+    console.log("hii from server)
+    
+    res.end("end")
+ })
+
+myserver.listen(3000,()=>{cosole.log("hii from sankalp)})
+1752137917480: /client New Req received
+1752137917558: /favicon.ico New Req received
+1752138334293: /client New Req received
+1752138334375: /favicon.ico New Req received
+1752138371601: /client New Req received
+1752138371672: /favicon.ico New Req received
+1752138390796: /client New Req received
+1752138491687: /client New Req received
+1752138553092: / New Req received
+1752138559593: /client New Req received
+1752138567846: /clint New Req received
+1752138941236: /clint New Req received
+1752138942309: /clint New Req received
+1752138942656: /clint New Req received
+1752138959371: / New Req received
+1752139031353: /client New Req received
+1752139049954: /client?name=sankalp New Req received
+1752139228817: /client?name=sankalp New Req received
+1752139303994: /client?name=sankalp New Req received
+1752139309717: /client?name=sankalp New Req received
+1752139326730: /about?name=sankalp New Req received
+1752139335714: /?name=sankalp New Req received
+1752139352777: /?name=sankalp&id=1 New Req received
+1752139538439: /?name=sankalp&id=1 New Req received
+1752139928394: /?name=sankalp&id=1 New Req received
+1752139937499: /about?name=sankalp&id=1 New Req received
+1752139979429: /about?name=sankalp&id=1 New Req received
+1752140025978: /.well-known/appspecific/com.chrome.devtools.json New Req received
+1752140034812: /aout?name=sankalp&id=1 New Req received
+1752140035049: /.well-known/appspecific/com.chrome.devtools.json New Req received
+1752140045574: /about?name=sankalp&id=1 New Req received
+1752140241170: /?name=sankalp&id=1 New Req received
+1752140249001: /clien?name=sankalp&id=1 New Req received
+1752140255783: /client?name=sankalp&id=1 New Req received
+1752140262792: /about?name=sankalp&id=1 New Req received
+1752141310647: /about?name=sankalp&id=1&search=dog New Req received
+1752141321850: /about?name=sankalp&id=1&search=dog New Req received
+1752141350600: /about?name=sankalp&id=1&search=dog New Req received
+1752141366819: /about?name=sankalp&id=1&search=dog New Req received
+1752141394158: /about?name=sankalp&id=1&search=dog New Req received
+1752141395165: /about?name=sankalp&id=1&search=dog New Req received
+1752141411296: /about?name=sankalp&id=1&search=dog New Req received
+1752141411960: /about?name=sankalp&id=1&search=dog New Req received
+1752141586585: /about?name=sankalp&id=1&search=dog New Req received
+1752141644303: /search?search=javaScript+tutorial+for+sankalp New Req received
+1752141715820: /about?search=javaScript+tutorial+for+sankalp New Req received
+1752141723270: /about?search=javaScript+tutorial+for+sankalp New Req received
+1752141727295: /.well-known/appspecific/com.chrome.devtools.json New Req received
+1752141747050: /about?search=javaScript+tutorial+for+sankalp&name=sankalp New Req received
+1752227000752:GET /client New Req received
+1752227020893:GET / New Req received
+1752227045073:GET /about?name=sankalp&id=1 New Req received
+1752227260644:GET /signup New Req received
